@@ -5,21 +5,9 @@
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=260
-      &section=header
-      &text=Alok%20Kumar
-      &fontSize=48
-      &fontAlignY=40
-      &desc=Keep%20Learning%20·%20Keep%20Building
-      &descAlignY=65
-      &fontColor=ffffff
-      &color=0:2b1b1b,100:8b2e2e"
-    alt="Alok Kumar Banner"
-  />
+  <img src="https://raw.githubusercontent.com/ralok6385/ralok6385/main/assets/header.png" alt="Alok Kumar Banner" />
 </p>
+
 
 ---
 
