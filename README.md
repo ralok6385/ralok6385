@@ -1,15 +1,24 @@
 <!-- ===================== -->
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
+<!-- ===================== -->
+<!-- PROFILE BANNER -->
+<!-- ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Alok%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&color=0:1f2933,100:7f1d1d"
+  <img
+    src="https://capsule-render.vercel.app/api
+      ?type=waving
+      &height=260
+      &section=header
+      &text=Alok%20Kumar
+      &fontSize=48
+      &fontAlignY=40
+      &desc=Keep%20Learning%20·%20Keep%20Building
+      &descAlignY=65
+      &fontColor=ffffff
+      &color=0:2b1b1b,100:8b2e2e"
     alt="Alok Kumar Banner"
   />
-</p>
-
-<p align="center">
-  <strong>Keep Learning · Keep Building</strong>
 </p>
 
 ---
