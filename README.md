@@ -2,51 +2,67 @@
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Alok%20Kumar&fontSize=48&fontColor=ffffff&color=0:2c1b1b,100:9b3a3a" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Alok%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&color=0:1f2933,100:7f1d1d"
+    alt="Alok Kumar Banner"
+  />
 </p>
 
-<h3 align="center" style="color:#00e5ff; font-family: monospace;">
-  Keep Learning • Keep Building
-</h3>
+<p align="center">
+  <strong>Keep Learning · Keep Building</strong>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-- 🔨 Currently working on **Web Development Projects**
+I am a **Computer Science Engineering undergraduate** with a strong interest in  
+**Full Stack Development** and **Generative AI**.
+
+- 💻 Actively building **web-based projects**
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
-- 🤝 Open to opportunities as  
-  **Software Developer / Web Developer / Data Analyst**
-- 🌱 Learning **Full Stack Development & GenAI**
-- 📂 Explore my work below ⬇️
+- 🚀 Exploring **GenAI, backend systems, and scalable applications**
+- 🤝 Open to opportunities in  
+  **Software Development / Web Development / Data Analysis**
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker" />
+  <img 
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ralok6385&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ralok6385&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralok6385&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralok6385&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- 📧 Email: ralok6385@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/alok-kumar-360649332/ 
+- 📧 **Email:** ralok6385@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alok-kumar-360649332/
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile
+</p>
