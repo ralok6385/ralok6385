@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack & Applied AI Engineer | Computer Science Engineering</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ralok6385&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/alok-kumar-360649332">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,34 +24,26 @@ I am a Computer Science Engineer passionate about building real-world, scalable 
 
 My focus bridges modern Full-Stack development (MERN/TypeScript) with cutting-edge GenAI and Machine Learning implementations. I specialize in integrating Large Language Models (LLMs), designing Prompt Engineering workflows, and deploying scalable software solutions that solve tangible problems.
 
-## 🧠 Artificial Intelligence & Machine Learning Expertise
-*   **Generative AI:** Building LLM-powered applications and conversational agents.
-*   **Prompt Engineering:** Designing highly optimized, context-aware prompts for complex reasoning.
-*   **Machine Learning:** Predictive modeling, data analysis, and integrating ML models into web backends.
-*   *Certifications in: Deep Learning (NVIDIA), Generative AI Foundations, AI & Society.*
-
 ---
 
-## 🛠️ Core Tech Stack
+## ⚡ Skills & Expertise
 
-**Frontend Architecture**
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+### 🧠 Artificial Intelligence & Machine Learning
+*   **Generative AI:** Building LLM-powered applications, RAG (Retrieval-Augmented Generation), and conversational agents.
+*   **Prompt Engineering:** Designing highly optimized, context-aware prompts for complex reasoning.
+*   **Machine Learning:** Predictive modeling, data analysis, and integrating ML models into web backends.
+*   **Certifications in:** Deep Learning (NVIDIA), Generative AI Foundations, AI & Society.
 
-**Backend & Database Systems**
-<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-AE2124?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### 💻 Full-Stack Development
+*   **Frontend End:** React.js, TypeScript, Tailwind CSS, HTML5, CSS3, Responsive Design.
+*   **Backend End:** Node.js, Express.js, RESTful APIs, System Design.
+*   **Databases:** MongoDB, Mongoose, SQL/NoSQL concepts.
 
-**Tools & Orchestration**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+### 🛠️ Languages & Tools
+*   **Languages:** JavaScript/TypeScript, Python, C++
+*   **Version Control:** Git, GitHub
+*   **Containerization:** Docker
+*   **Core Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP) 
 
 ---
 
@@ -62,6 +58,5 @@ My focus bridges modern Full-Stack development (MERN/TypeScript) with cutting-ed
 
 ## 📊 Activity Status
 <p align="center">
-  <img src="https://anuraghazra.github.io/github-readme-stats/api?username=ralok6385&show_icons=true&theme=onedark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Alok's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralok6385&theme=onedark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="Alok's GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralok6385&theme=onedark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="Alok's GitHub streak" />
 </p>
