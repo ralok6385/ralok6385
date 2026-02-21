@@ -26,24 +26,14 @@ My focus bridges modern Full-Stack development (MERN/TypeScript) with cutting-ed
 
 ---
 
-## ⚡ Skills & Expertise
+## ⚡ Core Engineering & AI Capabilities
 
-### 🧠 Artificial Intelligence & Machine Learning
-*   **Generative AI:** Building LLM-powered applications, RAG (Retrieval-Augmented Generation), and conversational agents.
-*   **Prompt Engineering:** Designing highly optimized, context-aware prompts for complex reasoning.
-*   **Machine Learning:** Predictive modeling, data analysis, and integrating ML models into web backends.
-*   **Certifications in:** Deep Learning (NVIDIA), Generative AI Foundations, AI & Society.
-
-### 💻 Full-Stack Development
-*   **Frontend End:** React.js, TypeScript, Tailwind CSS, HTML5, CSS3, Responsive Design.
-*   **Backend End:** Node.js, Express.js, RESTful APIs, System Design.
-*   **Databases:** MongoDB, Mongoose, SQL/NoSQL concepts.
-
-### 🛠️ Languages & Tools
-*   **Languages:** JavaScript/TypeScript, Python, C++
-*   **Version Control:** Git, GitHub
-*   **Containerization:** Docker
-*   **Core Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP) 
+| 🧠 Artificial Intelligence & ML | 💻 Full-Stack Architecture | ⚙️ Systems & Orchestration |
+| :--- | :--- | :--- |
+| **Generative AI & LLMs:** Model integration, conversational systems, AI-driven automation | **Frontend Dynamics:** React.js, TypeScript, Next-gen UI patterns (Tailwind CSS) | **Cloud & Containerization:** Docker environments, scalable deployment architectures |
+| **Prompt Engineering:** Zero-shot/Few-shot optimization, contextual reasoning, hallucination reduction | **Backend Systems:** Node.js, Express.js, secure REST API development, Middleware | **Databases:** MongoDB aggregations, Mongoose modeling, NoSQL/SQL theory |
+| **Machine Learning Foundations:** Predictive analytics, data pre-processing, foundational statistics | **Core Languages:** JavaScript, TypeScript, Python, C++ | **Developer Tooling:** Advanced Git/GitHub workflows, CI/CD foundations |
+| 🎓 *Verified by NVIDIA Deep Learning Institute, GenAI Foundations* | 🛡️ *Practiced in Secure Web Principles (XSS, SQLi mitigation)* | 📐 *Grounded in Data Structures & Algorithmic complexity* |
 
 ---
 
