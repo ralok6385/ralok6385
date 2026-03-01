@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Alok Kumar 👋</h1>
-<h3 align="center">Full-Stack & Applied AI Engineer | Computer Science Engineering</h3>
+<h3 align="center">Full-Stack & Applied AI Engineer  
+Building Scalable AI-Powered Web Apps | MERN • Next.js • LLMs | Computer Science Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ralok6385&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
